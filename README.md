@@ -1,15 +1,15 @@
 # 👋 Hi, I’m Vinod Paniker
 
 I’m a **Product & Technology Leader** passionate about building **AI agents that power enterprises**.  
-Currently Co-Founder & CPTO at **[TigressAI](https://tigressai.com)** — where we’re redefining how financial institutions automate risk and compliance.
+Currently Co-Founder & CPTO at **[TigressAI](https://tigressai.com)** where we’re redefining how financial institutions automate risk and compliance.
 
 ---
 
 ### 🚀 What I’m Building
-- **Regulatory Intelligence Engine (RIE)** — AI-powered Q&A system for financial regulations  
-- **GRITA Framework** — orchestrating multi-agent workflows for compliance automation  
-- **Risk Assessment Agent** — automating compliance reviews with LLM reasoning  
-- **SymoAI Consulting** — helping small & mid-sized businesses adopt AI transformation
+- **Regulatory Intelligence Engine (RIE)**  AI-powered Q&A system for financial regulations  
+- **GRITA Framework** orchestrating multi-agent workflows for compliance automation  
+- **Risk Assessment Agent** automating compliance reviews with LLM reasoning  
+- **SymoAI Consulting** helping small & mid-sized businesses adopt AI transformation
 
 > Most of my work is private, but all focused on **practical, agentic AI for complex enterprises**.
 
