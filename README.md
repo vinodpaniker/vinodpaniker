@@ -21,7 +21,7 @@ Python • LangChain • LlamaIndex • Streamlit • Neo4j • Postgres • AWS
 ---
 
 ### Product Focus
-AI Strategy • Product Architecture • Risk & Compliance Automation • Fintech Innovation
+AI Strategy • Product Architecture • Risk & Compliance Automation • Fintech Innovation • Product Management • AI Transformation
 
 ---
 
