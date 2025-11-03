@@ -26,10 +26,10 @@ AI Strategy • Product Architecture • Risk & Compliance Automation • Fintec
 ---
 
 ### Previously
-- VP, Digital Product Management **Prudential Financial**  
-- VP, Financial Services Product **Paceline**  
-- Co-Founder & COO **Sooryen Technologies** (acquired by Warburg Pincus-backed Encora)
-- Software Developer / Manager / Director **E*Trade Financials** 
+- VP, Digital Product Management - **Prudential Financial**  
+- VP, Financial Services Product - **Paceline**  
+- Co-Founder & COO - **Sooryen Technologies** (acquired by Warburg Pincus-backed Encora)
+- Software Developer / Manager / Director - **E*Trade Financials** 
 
 ---
 
