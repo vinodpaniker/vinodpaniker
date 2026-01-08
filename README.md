@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Vinod Paniker
 
 I’m a **Product & Technology Leader** passionate about building **AI agents that power enterprises**.  
-Currently Co-Founder & CPTO at **[TigressAI](https://tigressai.com)** where we’re redefining how financial institutions automate risk and compliance.
+Currently the founder and chief AI officer at **[TigressAI](https://tigressai.com)** where we’re redefining how financial institutions automate risk and compliance.
 
 ---
 
